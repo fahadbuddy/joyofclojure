@@ -1,2 +1,4 @@
 .idea
 *.iml
+.lein-repl-history
+.nrepl-port
