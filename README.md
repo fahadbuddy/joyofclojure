@@ -1,6 +1,6 @@
 # joyofclojure
 
-A Clojure library designed to ... well, that part is up to you.
+This is a project which looks at the excercises and discussions in the book The Joy Of Clojure.
 
 ## Usage
 
