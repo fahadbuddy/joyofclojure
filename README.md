@@ -1,6 +1,6 @@
 # joyofclojure
 
-This is a project which looks at the excercises and discussions in the book The Joy Of Clojure.
+This is a project which looks at the excercises and discussions in the book The Joy Of Clojure..
 
 ## Usage
 
